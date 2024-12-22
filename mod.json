@@ -10,7 +10,8 @@
 	"name": "Super Expert",
 	"developers": [
 		"Xanii",
-		"AdyaGD"
+		"AdyaGD",
+		"ASTerisk"
 	],
 	"description": "Mario Maker's 'Super Expert Run' in Geometry Dash!",
 	"dependencies": [
