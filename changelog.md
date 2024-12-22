@@ -1,3 +1,12 @@
+# 1.0.2 (changelog by me/ASTerisk)
+
+- Completely rewrote the mod from the ground up
+- Ported to 2.2074/Geode 4.0.0
+- The mod now requires Node IDs v1.17.0+
+- macOS support
+- Added seed saving
+- Fixed crashes
+
 # 1.0.1
 
 - 2.206/64 bit release
